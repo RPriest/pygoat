@@ -1,6 +1,7 @@
 # PyGoat
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/RPriest/pygoat/badge)](https://scorecard.dev/viewer/?uri=github.com//RPriest/pygoat)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 intentionally vuln web Application Security in django.
