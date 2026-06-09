@@ -4,7 +4,7 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/RPriest/pygoat/badge)](https://scorecard.dev/viewer/?uri=github.com/RPriest/pygoat)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-
+<!-- A quick fix-->
 intentionally vuln web Application Security in django.
 our roadmap build intentionally vuln web Application in django. The Vulnerability can based on OWASP top ten
 <br>
