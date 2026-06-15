@@ -2,4 +2,4 @@ version: 2
 updates:
     # For zipp, ignore all updates
     ignore:
-      - dependency-name: "zippaaa"
+      - dependency-name: "flask"
